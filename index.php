@@ -1,4 +1,9 @@
 <?php
+require_once './lib/database.php';
+?>
+
+
+<?php
 
 $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 $path = "./pages/{$page}.php";
