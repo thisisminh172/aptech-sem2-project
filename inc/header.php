@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>HAY GEAR</title>
     <link rel="stylesheet" href="public/css/bootstrap/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="public/reset.css" type="text/css">
     <link rel="stylesheet" href="public/style.css" type="text/css">
