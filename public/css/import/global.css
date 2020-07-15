@@ -1,6 +1,11 @@
-body{
+body {
     background-color: #ecf0f1;
 }
-a:hover{
+
+a:hover {
     text-decoration: none;
+}
+
+.text-white {
+    color: #fff;
 }

@@ -1,0 +1,21 @@
+#footer-wp {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+}
+
+#footer-wp p {
+    padding: 1rem;
+    margin-left: 2rem;
+}
+
+#footer-wp p:first-child {
+    margin-top: 1.5rem;
+}
+
+#footer-wp p:last-child {
+    margin-bottom: 1.5rem;
+}
