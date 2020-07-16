@@ -2,12 +2,20 @@
     background-color: #fff;
     margin-top: 1rem;
     margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+#sidebar-wp #sidebar {
+    padding: 0px;
+}
+
+#sidebar-wp ul {
+    list-style-type: none;
 }
 
 #sidebar-wp ul li a {
     display: block;
     padding: 1rem;
-    padding-left: 2rem;
     color: #343a40;
 }
 
