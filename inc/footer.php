@@ -1,6 +1,6 @@
 </div>
 </div>
-<div class="container-fluid">
+<footer class="container-fluid">
     <div id="footer-wp">
         <div>
             <p>© 2020 Công Ty Cổ Phần Máy Tính Hà Nội</p><br>
@@ -10,7 +10,7 @@
         </div>
 
     </div>
-</div>
+</footer>
 
 </body>
 
